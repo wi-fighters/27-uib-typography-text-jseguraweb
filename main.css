@@ -9,3 +9,8 @@ h1 {
 li {
     font-weight: 400;
 }
+
+.heading {
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px grey;
+}
